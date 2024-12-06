@@ -10,6 +10,6 @@
 
 ## **Como usar**
 
-1. Faça download do repositório, ou clone e apague a pasta .git
+1. Faça download do repositório, ou clone e apague a pasta .git para desvincular.
 2. Instale as dependências - npm install
 3. Inicie o script - npm run dev
