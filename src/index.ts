@@ -1,1 +1,1 @@
-// teste
+console.log('Hello, world!');

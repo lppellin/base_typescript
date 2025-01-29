@@ -1,10 +1,11 @@
 {
-  "name": "aula-base",
+  "name": "ts-base",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
-    "eslint": "npx eslint ."
+    "eslint": "npx eslint .",
+    "prettier": "prettier --write src/**/*.ts"
   },
   "keywords": [],
   "author": "",
